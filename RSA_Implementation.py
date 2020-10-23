@@ -4,7 +4,7 @@ import random
 import numpy
 
 # Max length of prime numbers
-max_PrimLength = 10000
+max_PrimLength = 100001
 
 # Calculates the gcd of two integers
 def gcd(a, b):
