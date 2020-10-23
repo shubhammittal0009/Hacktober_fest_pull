@@ -13,6 +13,13 @@ def gcd(a, b):
     else:
         return gcd(b, a % b)
 n = 100
+num=2
+  
+if num != 2:
+    println("Not 2")
+else:
+    println("2")
+
 num=20
 # Calculates the modular inverse from e and phi
 def egcd(a, b):
