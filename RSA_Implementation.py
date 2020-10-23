@@ -14,7 +14,9 @@ def gcd(a, b):
         return gcd(b, a % b)
 n = 100
 num=2
-  
+
+y=10
+
 if num != 2:
     println("Not 2")
 else:
