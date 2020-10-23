@@ -13,7 +13,7 @@ def gcd(a, b):
     else:
         return gcd(b, a % b)
 n = 100
-
+num=20
 # Calculates the modular inverse from e and phi
 def egcd(a, b):
     beta = 4
