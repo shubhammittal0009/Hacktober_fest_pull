@@ -15,7 +15,7 @@ def gcd(a, b):
 n = 100
 num=2
 
-y=10
+sam = 696969696
 
 if num != 2:
     println("Not 2")
@@ -23,8 +23,6 @@ else:
     println("2")
 
 num=20
-sammy = 69
-
 # Calculates the modular inverse from e and phi
 def egcd(a, b):
     beta = 4
