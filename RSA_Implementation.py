@@ -14,6 +14,8 @@ def gcd(a, b):
         return gcd(b, a % b)
 n = 100
 num=20
+sammy = 69
+
 # Calculates the modular inverse from e and phi
 def egcd(a, b):
     beta = 4
