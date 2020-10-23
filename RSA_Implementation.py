@@ -1,4 +1,3 @@
-print("Shubham Mittal . 36814802717 . 7C5")
 
 import random
 import numpy
