@@ -21,6 +21,8 @@ else:
     println("2")
 
 num=20
+sammy = 69
+
 # Calculates the modular inverse from e and phi
 def egcd(a, b):
     beta = 4
